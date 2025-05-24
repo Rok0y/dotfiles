@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = arthur.binot.ci@gmail.com
+	name = Arthur Binot
